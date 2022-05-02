@@ -23,7 +23,7 @@ The following are criteria for a frequency distribution to be a binomial distrib
  
 # Procedure :
 
-![image](https://user-images.githubusercontent.com/104613195/165904573-5b8a145e-2210-4c9e-99d8-41fc2762c82f.png)
+![image](https://user-images.githubusercontent.com/104613195/166250867-46571ef5-f77b-4658-86ce-1c60c52fdfb1.png)
 
 # Program
 
