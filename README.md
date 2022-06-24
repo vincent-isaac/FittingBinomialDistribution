@@ -1,4 +1,6 @@
-# Fitting Binomial Distribution
+### EX NO : 01
+### DATE  : 30.03.2022
+# <p align="center">Fitting Binomial Distribution</p>
 
 # Aim : 
 
@@ -20,15 +22,25 @@ The following are criteria for a frequency distribution to be a binomial distrib
 1. The experiment consists of n repeated trials.
 2. Each trial can result in just two possible outcomes (a success anda failure).
 3. The trials are independent (the outcome on one trial does not affect the outcome on other trials).
- 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 # Procedure :
 
 ![image](https://user-images.githubusercontent.com/104613195/166250867-46571ef5-f77b-4658-86ce-1c60c52fdfb1.png)
 
 # Program
-# Developed by
-# Register Number: 212220230060
-# Name: J Vincent Isaac Jeyaraj
+ Developed by <br>
+ Register Number: 212220230060 <br>
+ Name: J Vincent Isaac Jeyaraj <br>
 ```python
 import numpy as np
 import math
@@ -60,12 +72,12 @@ if cal_chi2<tab_chi2:
 else:
     print("The given data cannot be fitted in binomial distribution at 1% LOS")
 ```
-# Output:
-![Capture5](https://user-images.githubusercontent.com/75234588/168960603-e45485e9-121a-4c4e-aa47-577a911bed13.PNG)
+
+
+# Output : 
+![image](https://user-images.githubusercontent.com/75235488/168961860-672cd3af-74da-42b8-95fa-8e828205cd58.png)
 
 
 
-
-# Results:
-
-Thus, fitting binomial distribution for the given frequencey distribution is verified.
+# Result:
+Thus, fitting poisson distribution for the given frequencey distribution is verified.
